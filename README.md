@@ -1,8 +1,6 @@
 # Currency-Converter
 An API Integrated Mini Project Using Front-End Technologies.
 
-# Currency Converter
-
 A simple currency converter that allows users to convert between different currencies using live exchange rates fetched from a public API.
 
 ## Technologies Used:
